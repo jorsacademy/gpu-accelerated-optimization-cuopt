@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "GPU-Accelerated Optimization with NVIDIA cuOpt: Reproducible Benchmark Harness"
+message: "If you use this research code, please cite the repository and NVIDIA cuOpt documentation."
+type: software
+authors:
+  - name: "Jors Academy"
+version: 0.1.0
+date-released: 2026-09-05
+license: MIT
+repository-code: "https://github.com/jorsacademy/gpu-accelerated-optimization-cuopt"
