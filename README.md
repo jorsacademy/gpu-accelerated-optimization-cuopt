@@ -110,4 +110,4 @@ See `RESEARCH_NOTES.md` for methodology and interpretation details.
 
 ## License
 
-MIT. NVIDIA cuOpt itself is a separate NVIDIA project with its own licensing and system requirements.
+This repository is licensed under the **JORS Academy Non-Commercial Source License 1.0**. Commercial use is prohibited without a separate prior written commercial license. See [`LICENSE`](LICENSE) for the complete terms. NVIDIA cuOpt itself remains subject to NVIDIA's own licensing and system requirements.
